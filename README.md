@@ -1,9 +1,50 @@
-# dental-getafe-centro
+# Dental Getafe Centro
 
-Demo web para cliente.
+> Dental Getafe Centro: micro-SaaS pensado para utilidad inmediata y lectura clara del valor
 
-**Sector:** Ver descripción.
-**Live URL:** https://dental-getafe-centro.vercel.app
+## Resumen
 
-> Repositorio creado automáticamente. Código fuente a poblar por repo-man.
+Dental Getafe Centro trabaja una propuesta de micro-SaaS donde claridad, velocidad de uso y foco en el problema pesan más que la complejidad ornamental. La idea central se resume bien así: dental Getafe Centro - Getafe. A nivel de implementación, el proyecto se apoya en micro-SaaS, Tooling y Producto Digital para sostener una propuesta más clara, útil y fácil de evaluar.
 
+## Valor del proyecto
+
+Ayuda a demostrar criterio de producto, capacidad para recortar alcance y foco en construir soluciones pequeñas pero útiles.
+
+La propuesta esta pensada como una web comercial para clinica dental, con foco en confianza, claridad de tratamientos y conversion a primera cita.
+
+## Funcionalidades o puntos fuertes
+
+- Propuesta de valor inmediata y muy enfocada
+- Flujo de uso corto y fácil de entender
+- Narrativa de producto pensada para explicar utilidad real
+- Stack principal visible y coherente: micro-SaaS, Tooling y Producto Digital.
+
+## Stack principal
+
+
+## Como explorar este proyecto
+
+- Revisar como se presenta la propuesta de valor desde el hero y los bloques de especialidad.
+- Analizar la jerarquia visual y los recursos de confianza orientados a captar pacientes.
+- Valorar la adaptacion del mensaje a un negocio local y su aplicacion como plantilla comercial.
+
+## Ficha rapida
+
+| Campo | Detalle |
+| --- | --- |
+| Repositorio | dental-getafe-centro |
+| Categoria | Software Development |
+| Grupo | Demos Dentales |
+| Complejidad | Beginner |
+| Lenguaje principal | Multi-stack |
+| Primera version | 8 de mayo de 2026 |
+| Ultima actualizacion | 12 de mayo de 2026 |
+
+## Enlaces
+
+- Demo en vivo: https://dental-getafe-centro.vercel.app
+- Repositorio: https://github.com/AlfonsoCifuentes/dental-getafe-centro
+
+## Nota
+
+Este README se ha generado a partir del catalogo enriquecido del portfolio para mantener una descripcion consistente, explicativa y lista para evolucionar en cada repositorio.
